@@ -1,0 +1,29 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+.vs/*
+*.swp
+*.code-workspace
+
+# Include folder where your solution files are placed
+slnfolder/
+
+# Ignore build outputs
+bin/
+obj/
+out/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore package management files
+packages/
+
+# Ignore temporary files created by the application
+*.tmp
+*.temp
+tmp/
+
+# Test result files
+TestResults/
